@@ -173,8 +173,8 @@ form button[type = "submit"]:hover,
     background-color: #f44336;
     color: white;
     position: absolute;
-    top: 20px;
-    right: 20px;
+    /* top: 0px; */
+    right: 0px;
     height: 30px;
     width: 30px;
     display: flex;
